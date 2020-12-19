@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="commons-io-2.8.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Desktop/commons-lang3-3.11.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/pdfbox.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
